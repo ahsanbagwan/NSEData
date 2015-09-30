@@ -1,6 +1,6 @@
 # NSEData
 
-NSE Data pulled in from Quandl repository and rendered in a tabular format. 
+NSE Data pulled in from Quandl repository and rendered in a tabular format. Made use of jQuery Datatables.
 
 Public API link: https://www.quandl.com/data/NSE?keyword=india
 
