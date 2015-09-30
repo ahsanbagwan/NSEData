@@ -1,6 +1,6 @@
 # NSEData
 
-NSE Data pulled in from Quandl repository. 
+NSE Data pulled in from Quandl repository and rendered in a tabular format. 
 
 # TODO
 
