@@ -8,4 +8,4 @@ NSE Data pulled in from Quandl repository.
 
 * Add some filtering
 
-* Add as a package to NPM
+* Run with node.js
