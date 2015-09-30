@@ -8,8 +8,8 @@ $(document).ready(function(){
             { "data": "id" },
             { "data": "name" },
             { "data": "description" },
-            { "data": "refreshed_at" },
-          	{ "data": "premium" }
+            { "data": "oldest_available_date" },
+          	{ "data": "newest_available_date" }
           ]
     });
 });
